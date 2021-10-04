@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "159302318040",
+    "project_id": "b2connect-scanner",
+    "storage_bucket": "b2connect-scanner.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159302318040:android:7f7c7e00ce65b105b5e4ad",
+        "android_client_info": {
+          "package_name": "com.appstirr.b2connect_id_scanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "159302318040-b0vr381e954r48qqdibnvon2q3mv7tkh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appstirr.b2connect_id_scanner",
+            "certificate_hash": "386659edfad1c5bbace4a230b3fdec0b92dc24fd"
+          }
+        },
+        {
+          "client_id": "159302318040-9l16s95uulhfohmeb7839rnb08d9nnvo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCE0pOsHyGpplvhLtEurGnNc9vZuglu5Fc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "159302318040-9l16s95uulhfohmeb7839rnb08d9nnvo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
